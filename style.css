@@ -1,0 +1,21 @@
+.head {
+font-size: medium;
+font-size: 50px;
+color: red;    
+}
+
+#ab {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: yellowgreen;
+}
+
+#name {
+    width: 100%;
+padding: 1.25rem;
+background-color: #424242;
+font-family: "LucidaGrande";
+font-size: 1.75rem;
+font-weight: normal;
+color: #ffffff;
+text-align: center;
+}
